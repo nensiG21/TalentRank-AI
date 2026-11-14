@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Candidate resumes and private screening data
+backend/data/raw_resumes/
+backend/data/processed/
+backend/data/**/*.pdf
+backend/data/**/*.docx
+
+# Frontend dependencies and build files
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
