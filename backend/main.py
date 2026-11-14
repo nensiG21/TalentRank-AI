@@ -50,8 +50,8 @@ def startup_event():
 
 def initialize_demo_data():
     """
-    Load fictional demo data on Render when enabled.
-    Never overwrites existing processed data.
+    Load the fictional demo dataset on Render.
+    Replaces stale processed data when demo mode is enabled.
     """
     if os.getenv("USE_DEMO_DATA", "").lower() != "true":
         return
@@ -67,9 +67,8 @@ def initialize_demo_data():
                 f"Demo data file missing: {source}"
             )
 
-        if not destination.exists():
-            shutil.copy2(source, destination)
-            print(f"Loaded demo dataset: {filename}")
+        shutil.copy2(source, destination)
+        print(f"Loaded fresh demo dataset: {filename}")
 
 app.add_middleware(
     CORSMiddleware,
