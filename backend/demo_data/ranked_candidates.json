@@ -1,0 +1,2521 @@
+{
+    "total_candidates": 12,
+    "unique_candidates": 12,
+    "duplicate_records_excluded": 0,
+    "duplicate_groups": 0,
+    "ranking_method": "Synthetic demonstration dataset. Fictional resume content processed using the TalentRank-AI prototype algorithms. Scores are illustrative and are not real hiring assessments.",
+    "lca_ranking": [
+        {
+            "filename": "DEMO_LCA_001.txt",
+            "category": "LCA",
+            "score": 85.95,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Life Cycle Assessment projects.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Completed a fictional Life Cycle Assessment study for packaging.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional sustainability analyst with experience in Life Cycle Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Life Cycle Inventory analysis.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "SimaPro",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used OpenLCA and SimaPro for environmental modelling.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "SimaPro",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, Excel, Data Analysis, OpenLCA, SimaPro",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "OpenLCA",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used OpenLCA and SimaPro for environmental modelling.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "OpenLCA",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, Excel, Data Analysis, OpenLCA, SimaPro",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "ISO 14040/14044",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Applied ISO 14040 and ISO 14044 guidelines.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "ISO 14040/14044",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "EPD",
+                    "possible_points": 3,
+                    "earned_points": 3.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Prepared an Environmental Product Declaration.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "EPD",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Carbon Accounting",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Carbon Accounting and Sustainability analysis.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Carbon Accounting",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Sustainability",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Carbon Accounting and Sustainability analysis.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Sustainability",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional sustainability analyst with experience in Life Cycle Assessment",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "and Data Analysis for product sustainability studies.",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Environmental Impact Assessment",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Performed Environmental Impact Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Environmental Impact Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "and Data Analysis for product sustainability studies.",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, Excel, Data Analysis, OpenLCA, SimaPro",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, Excel, Data Analysis, OpenLCA, SimaPro",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "GaBi"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 1
+        },
+        {
+            "filename": "DEMO_LCA_003.txt",
+            "category": "LCA",
+            "score": 80.54,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Life Cycle Assessment and Life Cycle Inventory studies.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Completed a fictional product Life Cycle Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional LCA research associate.",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Life Cycle Assessment and Life Cycle Inventory studies.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "SimaPro",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used SimaPro and OpenLCA.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "SimaPro",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "SimaPro, OpenLCA, Python, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "OpenLCA",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used SimaPro and OpenLCA.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "OpenLCA",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "SimaPro, OpenLCA, Python, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "ISO 14040/14044",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Applied ISO 14040 and ISO 14044 methodology.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "ISO 14040/14044",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "EPD",
+                    "possible_points": 3,
+                    "earned_points": 3.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Prepared Environmental Product Declaration documentation.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "EPD",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Carbon Accounting",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Carbon Accounting and Sustainability research.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Carbon Accounting",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Sustainability",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Carbon Accounting and Sustainability research.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Sustainability",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "SimaPro, OpenLCA, Python, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "SimaPro, OpenLCA, Python, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "GaBi",
+                "Environmental Impact Assessment"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 2
+        },
+        {
+            "filename": "DEMO_LCA_005.txt",
+            "category": "LCA",
+            "score": 80.54,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Carbon Accounting and Life Cycle Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Prepared Life Cycle Inventory datasets.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "SimaPro",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked with GaBi and SimaPro.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "SimaPro",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, SimaPro, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "GaBi",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked with GaBi and SimaPro.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "GaBi",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, SimaPro, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "ISO 14040/14044",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Applied ISO 14040 and ISO 14044 standards.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "ISO 14040/14044",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "EPD",
+                    "possible_points": 3,
+                    "earned_points": 3.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Developed a fictional Environmental Product Declaration.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "EPD",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Carbon Accounting",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Carbon Accounting and Life Cycle Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Carbon Accounting",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Environmental Impact Assessment",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Performed Environmental Impact Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Environmental Impact Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, SimaPro, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, SimaPro, Excel, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "OpenLCA",
+                "Sustainability"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 3
+        },
+        {
+            "filename": "DEMO_LCA_002.txt",
+            "category": "LCA",
+            "score": 67.03,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported Life Cycle Assessment research.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Life Cycle Inventory calculations.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "GaBi",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used GaBi software for environmental modelling.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "GaBi",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, Excel, Sustainability, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "ISO 14040/14044",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked with ISO 14040 and ISO 14044 standards.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "ISO 14040/14044",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Carbon Accounting",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Developed a fictional Carbon Accounting assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Carbon Accounting",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Sustainability",
+                    "possible_points": 2,
+                    "earned_points": 0.8,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Sustainability",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional environmental analyst interested in sustainability.",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, Excel, Sustainability, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Environmental Impact Assessment",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Completed Environmental Impact Assessment research.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Environmental Impact Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Data Analysis using Excel.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, Excel, Sustainability, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Data Analysis using Excel.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "GaBi, Excel, Sustainability, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "SimaPro",
+                "OpenLCA",
+                "EPD"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 4
+        },
+        {
+            "filename": "DEMO_LCA_006.txt",
+            "category": "LCA",
+            "score": 57.84,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Created a fictional Life Cycle Assessment report.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Performed Life Cycle Inventory research.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "OpenLCA",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Explored Carbon Accounting and OpenLCA.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "OpenLCA",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, SQL, Excel, OpenLCA, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Carbon Accounting",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Explored Carbon Accounting and OpenLCA.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Carbon Accounting",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Sustainability",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported Sustainability and Data Analysis activities.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Sustainability",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Environmental Impact Assessment",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Assisted with Environmental Impact Assessment.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Environmental Impact Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported Sustainability and Data Analysis activities.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, SQL, Excel, OpenLCA, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Python, SQL, Excel, OpenLCA, Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "SimaPro",
+                "GaBi",
+                "ISO 14040/14044",
+                "EPD"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 5
+        },
+        {
+            "filename": "DEMO_LCA_004.txt",
+            "category": "LCA",
+            "score": 52.43,
+            "matched_requirements": [
+                {
+                    "requirement": "Life Cycle Assessment",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Conducted a fictional Life Cycle Assessment project.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Life Cycle Inventory",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Prepared a basic Life Cycle Inventory.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Life Cycle Inventory",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "OpenLCA",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Explored OpenLCA for environmental modelling.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "OpenLCA",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "OpenLCA, Excel, Python, Sustainability",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Sustainability",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Assisted with Sustainability research and Data Analysis.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Sustainability",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional junior sustainability researcher.",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "OpenLCA, Excel, Python, Sustainability",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Environmental Impact Assessment",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported Environmental Impact Assessment activities.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Environmental Impact Assessment",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Data Analysis",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Assisted with Sustainability research and Data Analysis.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Data Analysis",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Excel",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Excel",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "OpenLCA, Excel, Python, Sustainability",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "SimaPro",
+                "GaBi",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 6
+        },
+        {
+            "filename": "DEMO_UIUX_001.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 7
+        },
+        {
+            "filename": "DEMO_UIUX_002.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 8
+        },
+        {
+            "filename": "DEMO_UIUX_003.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 9
+        },
+        {
+            "filename": "DEMO_UIUX_004.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 10
+        },
+        {
+            "filename": "DEMO_UIUX_005.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 11
+        },
+        {
+            "filename": "DEMO_UIUX_006.txt",
+            "category": "UI/UX",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "Life Cycle Assessment",
+                "Life Cycle Inventory",
+                "SimaPro",
+                "GaBi",
+                "OpenLCA",
+                "ISO 14040/14044",
+                "EPD",
+                "Carbon Accounting",
+                "Sustainability",
+                "Environmental Impact Assessment",
+                "Data Analysis",
+                "Excel"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 12
+        }
+    ],
+    "ui_ux_ranking": [
+        {
+            "filename": "DEMO_UIUX_001.txt",
+            "category": "UI/UX",
+            "score": 84.71,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on UI/UX Design and interface design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Created high fidelity prototypes and user flows.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "UI/UX Design",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional UI/UX designer with a focus on user-centered design.",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Figma",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Created Wireframing layouts using Figma.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Designed a fictional mobile application using Figma.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Figma",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, Prototyping, User Research,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Wireframing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Created Wireframing layouts using Figma.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Wireframing",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, Prototyping, User Research,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Developed Prototyping workflows.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, Prototyping, User Research,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "User Research",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Conducted User Research and Usability Testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "User Research",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, Prototyping, User Research,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Usability Testing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Conducted User Research and Usability Testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Usability Testing",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Usability Testing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Responsive Design",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Designed Responsive Design interfaces.",
+                            "credit": 1.0
+                        }
+                    ]
+                },
+                {
+                    "requirement": "HTML",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "HTML",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Usability Testing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "CSS",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "CSS",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Usability Testing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 1
+        },
+        {
+            "filename": "DEMO_UIUX_003.txt",
+            "category": "UI/UX",
+            "score": 84.71,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Figma for UI/UX Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Figma",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Figma for UI/UX Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Figma",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, User Research, Wireframing, Prototyping,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Wireframing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Created Wireframing and Prototyping deliverables.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Wireframing",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, User Research, Wireframing, Prototyping,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Created Wireframing and Prototyping deliverables.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Developed high fidelity prototype screens.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, User Research, Wireframing, Prototyping,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "User Research",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed User Research and usability testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "User Research",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, User Research, Wireframing, Prototyping,",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Usability Testing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed User Research and usability testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Usability Testing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Responsive Design",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Responsive Design.",
+                            "credit": 1.0
+                        }
+                    ]
+                },
+                {
+                    "requirement": "HTML",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "HTML",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "CSS",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "CSS",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 2
+        },
+        {
+            "filename": "DEMO_UIUX_002.txt",
+            "category": "UI/UX",
+            "score": 63.53,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on UI Design and UX Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Created interaction design workflows.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "UI/UX Design",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Wireframing",
+                    "possible_points": 4,
+                    "earned_points": 1.6,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Wireframing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 1.6,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "User Research",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed User Research and user interviews.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Usability Testing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Conducted Usability Testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Usability Testing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Adobe XD",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Adobe XD and Photoshop.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Adobe XD",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Photoshop",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Adobe XD and Photoshop.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Photoshop",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Illustrator",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Illustrator",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Responsive Design",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Designed a fictional responsive mobile interface.",
+                            "credit": 1.0
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "Figma",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 3
+        },
+        {
+            "filename": "DEMO_UIUX_005.txt",
+            "category": "UI/UX",
+            "score": 61.76,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on UI/UX Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Created fictional user flows and interaction design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "UI/UX Design",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "projects",
+                            "text": "Developed Prototyping deliverables.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "User Research",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Conducted User Research and User Interviews.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "User Research",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Usability Testing",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Performed Usability Testing and accessibility testing.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Usability Testing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Adobe XD",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Photoshop, Illustrator and Adobe XD.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Adobe XD",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Photoshop",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Photoshop, Illustrator and Adobe XD.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Photoshop",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Illustrator",
+                    "possible_points": 1,
+                    "earned_points": 1.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Photoshop, Illustrator and Adobe XD.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Illustrator",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Adobe XD, Photoshop, Illustrator, User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "Figma",
+                "Wireframing",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 4
+        },
+        {
+            "filename": "DEMO_UIUX_006.txt",
+            "category": "UI/UX",
+            "score": 58.82,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Responsive Design and UI Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "experience",
+                            "text": "Used Figma for interface design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Developed mobile interface design concepts.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "other",
+                            "text": "Fictional frontend and interface design enthusiast.",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Figma",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Used Figma for interface design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Figma",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, HTML, CSS, JavaScript, Wireframing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Wireframing",
+                    "possible_points": 4,
+                    "earned_points": 1.6,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Wireframing",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, HTML, CSS, JavaScript, Wireframing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 1.6,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "User Research",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported User Research activities.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "User Research",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Responsive Design",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on Responsive Design and UI Design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Developed mobile interface design concepts.",
+                            "credit": 1.0
+                        }
+                    ]
+                },
+                {
+                    "requirement": "HTML",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "HTML",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, HTML, CSS, JavaScript, Wireframing",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "CSS",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "CSS",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, HTML, CSS, JavaScript, Wireframing",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 5
+        },
+        {
+            "filename": "DEMO_UIUX_004.txt",
+            "category": "UI/UX",
+            "score": 54.12,
+            "matched_requirements": [
+                {
+                    "requirement": "UI/UX Design",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Assisted with UI Design and interface design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "experience",
+                            "text": "Worked on mobile interface design.",
+                            "credit": 1.0
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Figma",
+                    "possible_points": 5,
+                    "earned_points": 5.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Created Wireframes using Figma.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Figma",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Wireframing",
+                    "possible_points": 4,
+                    "earned_points": 1.6,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "Wireframing",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Prototyping",
+                    "possible_points": 4,
+                    "earned_points": 4.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Supported Prototyping activities.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "skills",
+                            "text": "Prototyping",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "Responsive Design",
+                    "possible_points": 2,
+                    "earned_points": 2.0,
+                    "evidence": [
+                        {
+                            "source": "experience",
+                            "text": "Worked on mobile interface design.",
+                            "credit": 1.0
+                        },
+                        {
+                            "source": "projects",
+                            "text": "Developed Responsive Design layouts.",
+                            "credit": 1.0
+                        }
+                    ]
+                },
+                {
+                    "requirement": "HTML",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "HTML",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                },
+                {
+                    "requirement": "CSS",
+                    "possible_points": 1,
+                    "earned_points": 0.4,
+                    "evidence": [
+                        {
+                            "source": "skills",
+                            "text": "CSS",
+                            "credit": 0.4
+                        },
+                        {
+                            "source": "other",
+                            "text": "Figma, Wireframing, HTML, CSS",
+                            "credit": 0.4
+                        }
+                    ]
+                }
+            ],
+            "missing_requirements": [
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator"
+            ],
+            "manual_review_required": false,
+            "classification_reason": "Relevant UI/UX project or experience evidence found. Portfolio and design quality require HR review.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 6
+        },
+        {
+            "filename": "DEMO_LCA_001.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 7
+        },
+        {
+            "filename": "DEMO_LCA_002.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 8
+        },
+        {
+            "filename": "DEMO_LCA_003.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 9
+        },
+        {
+            "filename": "DEMO_LCA_004.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 10
+        },
+        {
+            "filename": "DEMO_LCA_005.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 11
+        },
+        {
+            "filename": "DEMO_LCA_006.txt",
+            "category": "LCA",
+            "score": 0.0,
+            "matched_requirements": [],
+            "missing_requirements": [
+                "UI/UX Design",
+                "Figma",
+                "Wireframing",
+                "Prototyping",
+                "User Research",
+                "Usability Testing",
+                "Adobe XD",
+                "Photoshop",
+                "Illustrator",
+                "Responsive Design",
+                "HTML",
+                "CSS"
+            ],
+            "manual_review_required": true,
+            "classification_reason": "Relevant LCA experience or project evidence found. Years of experience and completed projects require HR verification.",
+            "duplicate_group_id": null,
+            "duplicate_status": "unique",
+            "duplicate_review_required": false,
+            "rank": 12
+        }
+    ]
+}

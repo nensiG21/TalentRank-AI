@@ -2,6 +2,8 @@ from pathlib import Path
 import json
 import re
 import uuid
+import os
+import shutil
 
 import pymupdf
 from fastapi import FastAPI, UploadFile, File, HTTPException
@@ -24,6 +26,15 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 PROCESSED_DIR = DATA_DIR / "processed"
 RAW_RESUME_DIR = DATA_DIR / "raw_resumes"
+DEMO_DATA_DIR = BASE_DIR / "demo_data"
+
+DEMO_FILES = [
+    "extracted_resumes.json",
+    "cleaned_resumes.json",
+    "candidate_profiles.json",
+    "candidate_classifications.json",
+    "ranked_candidates.json",
+]
 MAX_FILE_SIZE = 10 * 1024 * 1024  # 10 MB per file
 MAX_FILES_PER_UPLOAD = 20
 ALLOWED_EXTENSIONS = {".pdf", ".docx"}
@@ -33,12 +44,38 @@ app = FastAPI(
     description="AI-powered resume classification and ranking API",
     version="1.1.0",
 )
+@app.on_event("startup")
+def startup_event():
+    initialize_demo_data()
+
+def initialize_demo_data():
+    """
+    Load fictional demo data on Render when enabled.
+    Never overwrites existing processed data.
+    """
+    if os.getenv("USE_DEMO_DATA", "").lower() != "true":
+        return
+
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+
+    for filename in DEMO_FILES:
+        source = DEMO_DATA_DIR / filename
+        destination = PROCESSED_DIR / filename
+
+        if not source.exists():
+            raise FileNotFoundError(
+                f"Demo data file missing: {source}"
+            )
+
+        if not destination.exists():
+            shutil.copy2(source, destination)
+            print(f"Loaded demo dataset: {filename}")
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://talent-rank-cboryq8b-nensi21.vercel.app",
+        "https://talent-rank-ai-sable.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

@@ -1,0 +1,86 @@
+[
+    {
+        "filename": "DEMO_LCA_001.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional sustainability analyst with experience in Life Cycle Assessment\nand Data Analysis for product sustainability studies.\n\nEducation\nBachelor of Environmental Science\nExample University\n2024\n\nExperience\nWorked on Life Cycle Assessment projects.\nPerformed Life Cycle Inventory analysis.\nUsed OpenLCA and SimaPro for environmental modelling.\nApplied ISO 14040 and ISO 14044 guidelines.\nPerformed Carbon Accounting and Sustainability analysis.\n\nProjects\nCompleted a fictional Life Cycle Assessment study for packaging.\nPrepared an Environmental Product Declaration.\nPerformed Environmental Impact Assessment.\n\nCertifications\nSustainability and Environmental Assessment Training\n\nSkills\nPython, Excel, Data Analysis, OpenLCA, SimaPro",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_LCA_002.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional environmental analyst interested in sustainability.\n\nEducation\nBachelor of Environmental Engineering\nExample Institute\n2023\n\nExperience\nSupported Life Cycle Assessment research.\nPerformed Life Cycle Inventory calculations.\nUsed GaBi software for environmental modelling.\nWorked with ISO 14040 and ISO 14044 standards.\nPerformed Data Analysis using Excel.\n\nProjects\nDeveloped a fictional Carbon Accounting assessment.\nCompleted Environmental Impact Assessment research.\n\nCertifications\nEnvironmental Management Training\n\nSkills\nGaBi, Excel, Sustainability, Data Analysis",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_LCA_003.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional LCA research associate.\n\nEducation\nMaster of Environmental Science\nExample University\n2024\n\nExperience\nPerformed Life Cycle Assessment and Life Cycle Inventory studies.\nUsed SimaPro and OpenLCA.\nPrepared Environmental Product Declaration documentation.\nWorked on Carbon Accounting and Sustainability research.\n\nProjects\nCompleted a fictional product Life Cycle Assessment.\nApplied ISO 14040 and ISO 14044 methodology.\n\nCertifications\nLife Cycle Assessment Training\n\nSkills\nSimaPro, OpenLCA, Python, Excel, Data Analysis",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_LCA_004.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional junior sustainability researcher.\n\nEducation\nBachelor of Science in Environmental Studies\nExample College\n2025\n\nExperience\nAssisted with Sustainability research and Data Analysis.\nSupported Environmental Impact Assessment activities.\n\nProjects\nConducted a fictional Life Cycle Assessment project.\nPrepared a basic Life Cycle Inventory.\nExplored OpenLCA for environmental modelling.\n\nCertifications\nSustainability Fundamentals\n\nSkills\nOpenLCA, Excel, Python, Sustainability",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_LCA_005.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional carbon and environmental analyst.\n\nEducation\nBachelor of Environmental Engineering\nExample University\n2023\n\nExperience\nPerformed Carbon Accounting and Life Cycle Assessment.\nWorked with GaBi and SimaPro.\nPrepared Life Cycle Inventory datasets.\nApplied ISO 14040 and ISO 14044 standards.\n\nProjects\nDeveloped a fictional Environmental Product Declaration.\nPerformed Environmental Impact Assessment.\n\nCertifications\nCarbon Accounting Training\n\nSkills\nGaBi, SimaPro, Excel, Data Analysis",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_LCA_006.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional environmental data analyst.\n\nEducation\nBachelor of Data Science\nExample Institute\n2025\n\nExperience\nSupported Sustainability and Data Analysis activities.\nAssisted with Environmental Impact Assessment.\n\nProjects\nCreated a fictional Life Cycle Assessment report.\nPerformed Life Cycle Inventory research.\nExplored Carbon Accounting and OpenLCA.\n\nCertifications\nEnvironmental Analytics Training\n\nSkills\nPython, SQL, Excel, OpenLCA, Data Analysis",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_001.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional UI/UX designer with a focus on user-centered design.\n\nEducation\nBachelor of Design\nExample Design Institute\n2024\n\nExperience\nWorked on UI/UX Design and interface design.\nCreated Wireframing layouts using Figma.\nDeveloped Prototyping workflows.\nConducted User Research and Usability Testing.\nDesigned Responsive Design interfaces.\n\nProjects\nDesigned a fictional mobile application using Figma.\nCreated high fidelity prototypes and user flows.\n\nCertifications\nUI/UX Design Fundamentals\n\nSkills\nFigma, Wireframing, Prototyping, User Research,\nUsability Testing, HTML, CSS",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_002.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional product designer interested in digital experiences.\n\nEducation\nBachelor of Visual Communication\nExample University\n2023\n\nExperience\nWorked on UI Design and UX Design.\nPerformed User Research and user interviews.\nCreated Wireframes and Prototypes.\nUsed Adobe XD and Photoshop.\nConducted Usability Testing.\n\nProjects\nDesigned a fictional responsive mobile interface.\nCreated interaction design workflows.\n\nCertifications\nAdobe XD Design Training\n\nSkills\nAdobe XD, Photoshop, Illustrator, UI/UX Design",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_003.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional UX designer focused on research and usability.\n\nEducation\nBachelor of Interaction Design\nExample Institute\n2024\n\nExperience\nPerformed User Research and usability testing.\nCreated Wireframing and Prototyping deliverables.\nUsed Figma for UI/UX Design.\nWorked on Responsive Design.\n\nProjects\nDesigned a fictional e-commerce user interface.\nDeveloped high fidelity prototype screens.\n\nCertifications\nUser Experience Design Training\n\nSkills\nFigma, User Research, Wireframing, Prototyping,\nHTML, CSS",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_004.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional junior interface designer.\n\nEducation\nBachelor of Computer Applications\nExample College\n2025\n\nExperience\nAssisted with UI Design and interface design.\nCreated Wireframes using Figma.\nSupported Prototyping activities.\nWorked on mobile interface design.\n\nProjects\nCreated a fictional dashboard design.\nDeveloped Responsive Design layouts.\n\nCertifications\nInterface Design Fundamentals\n\nSkills\nFigma, Wireframing, HTML, CSS",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_005.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional UX researcher and visual designer.\n\nEducation\nBachelor of Design\nExample University\n2023\n\nExperience\nConducted User Research and User Interviews.\nPerformed Usability Testing and accessibility testing.\nWorked on UI/UX Design.\nUsed Photoshop, Illustrator and Adobe XD.\n\nProjects\nCreated fictional user flows and interaction design.\nDeveloped Prototyping deliverables.\n\nCertifications\nUX Research Training\n\nSkills\nAdobe XD, Photoshop, Illustrator, User Research",
+        "missing_fields": []
+    },
+    {
+        "filename": "DEMO_UIUX_006.txt",
+        "extraction_status": "success",
+        "cleaning_status": "success",
+        "cleaned_text": "Professional Summary\nFictional frontend and interface design enthusiast.\n\nEducation\nBachelor of Information Technology\nExample Institute\n2025\n\nExperience\nWorked on Responsive Design and UI Design.\nCreated Wireframes and Prototypes.\nUsed Figma for interface design.\nSupported User Research activities.\n\nProjects\nDesigned a fictional responsive web application.\nDeveloped mobile interface design concepts.\n\nCertifications\nWeb and Interface Design Training\n\nSkills\nFigma, HTML, CSS, JavaScript, Wireframing",
+        "missing_fields": []
+    }
+]

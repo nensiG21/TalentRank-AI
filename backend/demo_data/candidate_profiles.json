@@ -1,0 +1,716 @@
+[
+    {
+        "filename": "DEMO_LCA_001.txt",
+        "status": "processed",
+        "skills": [
+            "Python",
+            "Excel",
+            "Data Analysis",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "SimaPro",
+            "OpenLCA",
+            "ISO 14040/14044",
+            "Sustainability",
+            "EPD",
+            "Carbon Accounting",
+            "Environmental Impact Assessment"
+        ],
+        "skill_evidence": {
+            "Python": [
+                "Python, Excel, Data Analysis, OpenLCA, SimaPro"
+            ],
+            "Excel": [
+                "Python, Excel, Data Analysis, OpenLCA, SimaPro"
+            ],
+            "Data Analysis": [
+                "and Data Analysis for product sustainability studies.",
+                "Python, Excel, Data Analysis, OpenLCA, SimaPro"
+            ],
+            "Life Cycle Assessment": [
+                "Fictional sustainability analyst with experience in Life Cycle Assessment",
+                "Worked on Life Cycle Assessment projects.",
+                "Completed a fictional Life Cycle Assessment study for packaging."
+            ],
+            "Life Cycle Inventory": [
+                "Performed Life Cycle Inventory analysis."
+            ],
+            "SimaPro": [
+                "Used OpenLCA and SimaPro for environmental modelling.",
+                "Python, Excel, Data Analysis, OpenLCA, SimaPro"
+            ],
+            "OpenLCA": [
+                "Used OpenLCA and SimaPro for environmental modelling.",
+                "Python, Excel, Data Analysis, OpenLCA, SimaPro"
+            ],
+            "ISO 14040/14044": [
+                "Applied ISO 14040 and ISO 14044 guidelines."
+            ],
+            "Sustainability": [
+                "Fictional sustainability analyst with experience in Life Cycle Assessment",
+                "and Data Analysis for product sustainability studies.",
+                "Performed Carbon Accounting and Sustainability analysis."
+            ],
+            "EPD": [
+                "Prepared an Environmental Product Declaration."
+            ],
+            "Carbon Accounting": [
+                "Performed Carbon Accounting and Sustainability analysis."
+            ],
+            "Environmental Impact Assessment": [
+                "Performed Environmental Impact Assessment."
+            ]
+        },
+        "education": "Bachelor of Environmental Science\nExample University\n2024",
+        "experience": "Worked on Life Cycle Assessment projects.\nPerformed Life Cycle Inventory analysis.\nUsed OpenLCA and SimaPro for environmental modelling.\nApplied ISO 14040 and ISO 14044 guidelines.\nPerformed Carbon Accounting and Sustainability analysis.",
+        "projects": "Completed a fictional Life Cycle Assessment study for packaging.\nPrepared an Environmental Product Declaration.\nPerformed Environmental Impact Assessment.",
+        "certifications": "Sustainability and Environmental Assessment Training",
+        "other": "Fictional sustainability analyst with experience in Life Cycle Assessment\nand Data Analysis for product sustainability studies.\nPython, Excel, Data Analysis, OpenLCA, SimaPro",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_LCA_002.txt",
+        "status": "processed",
+        "skills": [
+            "Excel",
+            "Data Analysis",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "GaBi",
+            "ISO 14040/14044",
+            "Sustainability",
+            "Carbon Accounting",
+            "Environmental Impact Assessment"
+        ],
+        "skill_evidence": {
+            "Excel": [
+                "Performed Data Analysis using Excel.",
+                "GaBi, Excel, Sustainability, Data Analysis"
+            ],
+            "Data Analysis": [
+                "Performed Data Analysis using Excel.",
+                "GaBi, Excel, Sustainability, Data Analysis"
+            ],
+            "Life Cycle Assessment": [
+                "Supported Life Cycle Assessment research."
+            ],
+            "Life Cycle Inventory": [
+                "Performed Life Cycle Inventory calculations."
+            ],
+            "GaBi": [
+                "Used GaBi software for environmental modelling.",
+                "GaBi, Excel, Sustainability, Data Analysis"
+            ],
+            "ISO 14040/14044": [
+                "Worked with ISO 14040 and ISO 14044 standards."
+            ],
+            "Sustainability": [
+                "Fictional environmental analyst interested in sustainability.",
+                "GaBi, Excel, Sustainability, Data Analysis"
+            ],
+            "Carbon Accounting": [
+                "Developed a fictional Carbon Accounting assessment."
+            ],
+            "Environmental Impact Assessment": [
+                "Completed Environmental Impact Assessment research."
+            ]
+        },
+        "education": "Bachelor of Environmental Engineering\nExample Institute\n2023",
+        "experience": "Supported Life Cycle Assessment research.\nPerformed Life Cycle Inventory calculations.\nUsed GaBi software for environmental modelling.\nWorked with ISO 14040 and ISO 14044 standards.\nPerformed Data Analysis using Excel.",
+        "projects": "Developed a fictional Carbon Accounting assessment.\nCompleted Environmental Impact Assessment research.",
+        "certifications": "Environmental Management Training",
+        "other": "Fictional environmental analyst interested in sustainability.\nGaBi, Excel, Sustainability, Data Analysis",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_LCA_003.txt",
+        "status": "processed",
+        "skills": [
+            "Python",
+            "Excel",
+            "Data Analysis",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "SimaPro",
+            "OpenLCA",
+            "ISO 14040/14044",
+            "Sustainability",
+            "EPD",
+            "Carbon Accounting"
+        ],
+        "skill_evidence": {
+            "Python": [
+                "SimaPro, OpenLCA, Python, Excel, Data Analysis"
+            ],
+            "Excel": [
+                "SimaPro, OpenLCA, Python, Excel, Data Analysis"
+            ],
+            "Data Analysis": [
+                "SimaPro, OpenLCA, Python, Excel, Data Analysis"
+            ],
+            "Life Cycle Assessment": [
+                "Fictional LCA research associate.",
+                "Performed Life Cycle Assessment and Life Cycle Inventory studies.",
+                "Completed a fictional product Life Cycle Assessment."
+            ],
+            "Life Cycle Inventory": [
+                "Performed Life Cycle Assessment and Life Cycle Inventory studies."
+            ],
+            "SimaPro": [
+                "Used SimaPro and OpenLCA.",
+                "SimaPro, OpenLCA, Python, Excel, Data Analysis"
+            ],
+            "OpenLCA": [
+                "Used SimaPro and OpenLCA.",
+                "SimaPro, OpenLCA, Python, Excel, Data Analysis"
+            ],
+            "ISO 14040/14044": [
+                "Applied ISO 14040 and ISO 14044 methodology."
+            ],
+            "Sustainability": [
+                "Worked on Carbon Accounting and Sustainability research."
+            ],
+            "EPD": [
+                "Prepared Environmental Product Declaration documentation."
+            ],
+            "Carbon Accounting": [
+                "Worked on Carbon Accounting and Sustainability research."
+            ]
+        },
+        "education": "Master of Environmental Science\nExample University\n2024",
+        "experience": "Performed Life Cycle Assessment and Life Cycle Inventory studies.\nUsed SimaPro and OpenLCA.\nPrepared Environmental Product Declaration documentation.\nWorked on Carbon Accounting and Sustainability research.",
+        "projects": "Completed a fictional product Life Cycle Assessment.\nApplied ISO 14040 and ISO 14044 methodology.",
+        "certifications": "Life Cycle Assessment Training",
+        "other": "Fictional LCA research associate.\nSimaPro, OpenLCA, Python, Excel, Data Analysis",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_LCA_004.txt",
+        "status": "processed",
+        "skills": [
+            "Python",
+            "Excel",
+            "Data Analysis",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "OpenLCA",
+            "Sustainability",
+            "Environmental Impact Assessment"
+        ],
+        "skill_evidence": {
+            "Python": [
+                "OpenLCA, Excel, Python, Sustainability"
+            ],
+            "Excel": [
+                "OpenLCA, Excel, Python, Sustainability"
+            ],
+            "Data Analysis": [
+                "Assisted with Sustainability research and Data Analysis."
+            ],
+            "Life Cycle Assessment": [
+                "Conducted a fictional Life Cycle Assessment project."
+            ],
+            "Life Cycle Inventory": [
+                "Prepared a basic Life Cycle Inventory."
+            ],
+            "OpenLCA": [
+                "Explored OpenLCA for environmental modelling.",
+                "OpenLCA, Excel, Python, Sustainability"
+            ],
+            "Sustainability": [
+                "Fictional junior sustainability researcher.",
+                "Assisted with Sustainability research and Data Analysis.",
+                "Sustainability Fundamentals"
+            ],
+            "Environmental Impact Assessment": [
+                "Supported Environmental Impact Assessment activities."
+            ]
+        },
+        "education": "Bachelor of Science in Environmental Studies\nExample College\n2025",
+        "experience": "Assisted with Sustainability research and Data Analysis.\nSupported Environmental Impact Assessment activities.",
+        "projects": "Conducted a fictional Life Cycle Assessment project.\nPrepared a basic Life Cycle Inventory.\nExplored OpenLCA for environmental modelling.",
+        "certifications": "Sustainability Fundamentals",
+        "other": "Fictional junior sustainability researcher.\nOpenLCA, Excel, Python, Sustainability",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_LCA_005.txt",
+        "status": "processed",
+        "skills": [
+            "Excel",
+            "Data Analysis",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "SimaPro",
+            "GaBi",
+            "ISO 14040/14044",
+            "EPD",
+            "Carbon Accounting",
+            "Environmental Impact Assessment"
+        ],
+        "skill_evidence": {
+            "Excel": [
+                "GaBi, SimaPro, Excel, Data Analysis"
+            ],
+            "Data Analysis": [
+                "GaBi, SimaPro, Excel, Data Analysis"
+            ],
+            "Life Cycle Assessment": [
+                "Performed Carbon Accounting and Life Cycle Assessment."
+            ],
+            "Life Cycle Inventory": [
+                "Prepared Life Cycle Inventory datasets."
+            ],
+            "SimaPro": [
+                "Worked with GaBi and SimaPro.",
+                "GaBi, SimaPro, Excel, Data Analysis"
+            ],
+            "GaBi": [
+                "Worked with GaBi and SimaPro.",
+                "GaBi, SimaPro, Excel, Data Analysis"
+            ],
+            "ISO 14040/14044": [
+                "Applied ISO 14040 and ISO 14044 standards."
+            ],
+            "EPD": [
+                "Developed a fictional Environmental Product Declaration."
+            ],
+            "Carbon Accounting": [
+                "Performed Carbon Accounting and Life Cycle Assessment.",
+                "Carbon Accounting Training"
+            ],
+            "Environmental Impact Assessment": [
+                "Performed Environmental Impact Assessment."
+            ]
+        },
+        "education": "Bachelor of Environmental Engineering\nExample University\n2023",
+        "experience": "Performed Carbon Accounting and Life Cycle Assessment.\nWorked with GaBi and SimaPro.\nPrepared Life Cycle Inventory datasets.\nApplied ISO 14040 and ISO 14044 standards.",
+        "projects": "Developed a fictional Environmental Product Declaration.\nPerformed Environmental Impact Assessment.",
+        "certifications": "Carbon Accounting Training",
+        "other": "Fictional carbon and environmental analyst.\nGaBi, SimaPro, Excel, Data Analysis",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_LCA_006.txt",
+        "status": "processed",
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Data Analysis",
+            "Data Science",
+            "Life Cycle Assessment",
+            "Life Cycle Inventory",
+            "OpenLCA",
+            "Sustainability",
+            "Carbon Accounting",
+            "Environmental Impact Assessment"
+        ],
+        "skill_evidence": {
+            "Python": [
+                "Python, SQL, Excel, OpenLCA, Data Analysis"
+            ],
+            "SQL": [
+                "Python, SQL, Excel, OpenLCA, Data Analysis"
+            ],
+            "Excel": [
+                "Python, SQL, Excel, OpenLCA, Data Analysis"
+            ],
+            "Data Analysis": [
+                "Supported Sustainability and Data Analysis activities.",
+                "Python, SQL, Excel, OpenLCA, Data Analysis"
+            ],
+            "Data Science": [
+                "Bachelor of Data Science"
+            ],
+            "Life Cycle Assessment": [
+                "Created a fictional Life Cycle Assessment report."
+            ],
+            "Life Cycle Inventory": [
+                "Performed Life Cycle Inventory research."
+            ],
+            "OpenLCA": [
+                "Explored Carbon Accounting and OpenLCA.",
+                "Python, SQL, Excel, OpenLCA, Data Analysis"
+            ],
+            "Sustainability": [
+                "Supported Sustainability and Data Analysis activities."
+            ],
+            "Carbon Accounting": [
+                "Explored Carbon Accounting and OpenLCA."
+            ],
+            "Environmental Impact Assessment": [
+                "Assisted with Environmental Impact Assessment."
+            ]
+        },
+        "education": "Bachelor of Data Science\nExample Institute\n2025",
+        "experience": "Supported Sustainability and Data Analysis activities.\nAssisted with Environmental Impact Assessment.",
+        "projects": "Created a fictional Life Cycle Assessment report.\nPerformed Life Cycle Inventory research.\nExplored Carbon Accounting and OpenLCA.",
+        "certifications": "Environmental Analytics Training",
+        "other": "Fictional environmental data analyst.\nPython, SQL, Excel, OpenLCA, Data Analysis",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_001.txt",
+        "status": "processed",
+        "skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping",
+            "User Research",
+            "Usability Testing",
+            "UI/UX Design",
+            "HTML",
+            "CSS"
+        ],
+        "skill_evidence": {
+            "Figma": [
+                "Created Wireframing layouts using Figma.",
+                "Designed a fictional mobile application using Figma.",
+                "Figma, Wireframing, Prototyping, User Research,"
+            ],
+            "Wireframing": [
+                "Created Wireframing layouts using Figma.",
+                "Figma, Wireframing, Prototyping, User Research,"
+            ],
+            "Prototyping": [
+                "Developed Prototyping workflows.",
+                "Created high fidelity prototypes and user flows.",
+                "Figma, Wireframing, Prototyping, User Research,"
+            ],
+            "User Research": [
+                "Conducted User Research and Usability Testing.",
+                "Figma, Wireframing, Prototyping, User Research,"
+            ],
+            "Usability Testing": [
+                "Conducted User Research and Usability Testing.",
+                "Usability Testing, HTML, CSS"
+            ],
+            "UI/UX Design": [
+                "Worked on UI/UX Design and interface design.",
+                "UI/UX Design Fundamentals"
+            ],
+            "HTML": [
+                "Usability Testing, HTML, CSS"
+            ],
+            "CSS": [
+                "Usability Testing, HTML, CSS"
+            ]
+        },
+        "education": "Bachelor of Design\nExample Design Institute\n2024",
+        "experience": "Worked on UI/UX Design and interface design.\nCreated Wireframing layouts using Figma.\nDeveloped Prototyping workflows.\nConducted User Research and Usability Testing.\nDesigned Responsive Design interfaces.",
+        "projects": "Designed a fictional mobile application using Figma.\nCreated high fidelity prototypes and user flows.",
+        "certifications": "UI/UX Design Fundamentals",
+        "other": "Fictional UI/UX designer with a focus on user-centered design.\nFigma, Wireframing, Prototyping, User Research,\nUsability Testing, HTML, CSS",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_002.txt",
+        "status": "processed",
+        "skills": [
+            "Adobe XD",
+            "Photoshop",
+            "Illustrator",
+            "Wireframing",
+            "Prototyping",
+            "User Research",
+            "Usability Testing",
+            "UI/UX Design"
+        ],
+        "skill_evidence": {
+            "Adobe XD": [
+                "Used Adobe XD and Photoshop.",
+                "Adobe XD Design Training",
+                "Adobe XD, Photoshop, Illustrator, UI/UX Design"
+            ],
+            "Photoshop": [
+                "Used Adobe XD and Photoshop.",
+                "Adobe XD, Photoshop, Illustrator, UI/UX Design"
+            ],
+            "Illustrator": [
+                "Adobe XD, Photoshop, Illustrator, UI/UX Design"
+            ],
+            "Wireframing": [
+                "Created Wireframes and Prototypes."
+            ],
+            "Prototyping": [
+                "Created Wireframes and Prototypes."
+            ],
+            "User Research": [
+                "Performed User Research and user interviews."
+            ],
+            "Usability Testing": [
+                "Conducted Usability Testing."
+            ],
+            "UI/UX Design": [
+                "Adobe XD, Photoshop, Illustrator, UI/UX Design"
+            ]
+        },
+        "education": "Bachelor of Visual Communication\nExample University\n2023",
+        "experience": "Worked on UI Design and UX Design.\nPerformed User Research and user interviews.\nCreated Wireframes and Prototypes.\nUsed Adobe XD and Photoshop.\nConducted Usability Testing.",
+        "projects": "Designed a fictional responsive mobile interface.\nCreated interaction design workflows.",
+        "certifications": "Adobe XD Design Training",
+        "other": "Fictional product designer interested in digital experiences.\nAdobe XD, Photoshop, Illustrator, UI/UX Design",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_003.txt",
+        "status": "processed",
+        "skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping",
+            "User Research",
+            "Usability Testing",
+            "UI/UX Design",
+            "HTML",
+            "CSS"
+        ],
+        "skill_evidence": {
+            "Figma": [
+                "Used Figma for UI/UX Design.",
+                "Figma, User Research, Wireframing, Prototyping,"
+            ],
+            "Wireframing": [
+                "Created Wireframing and Prototyping deliverables.",
+                "Figma, User Research, Wireframing, Prototyping,"
+            ],
+            "Prototyping": [
+                "Created Wireframing and Prototyping deliverables.",
+                "Figma, User Research, Wireframing, Prototyping,"
+            ],
+            "User Research": [
+                "Performed User Research and usability testing.",
+                "Figma, User Research, Wireframing, Prototyping,"
+            ],
+            "Usability Testing": [
+                "Performed User Research and usability testing."
+            ],
+            "UI/UX Design": [
+                "Used Figma for UI/UX Design."
+            ],
+            "HTML": [
+                "HTML, CSS"
+            ],
+            "CSS": [
+                "HTML, CSS"
+            ]
+        },
+        "education": "Bachelor of Interaction Design\nExample Institute\n2024",
+        "experience": "Performed User Research and usability testing.\nCreated Wireframing and Prototyping deliverables.\nUsed Figma for UI/UX Design.\nWorked on Responsive Design.",
+        "projects": "Designed a fictional e-commerce user interface.\nDeveloped high fidelity prototype screens.",
+        "certifications": "User Experience Design Training",
+        "other": "Fictional UX designer focused on research and usability.\nFigma, User Research, Wireframing, Prototyping,\nHTML, CSS",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_004.txt",
+        "status": "processed",
+        "skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping",
+            "HTML",
+            "CSS"
+        ],
+        "skill_evidence": {
+            "Figma": [
+                "Created Wireframes using Figma.",
+                "Figma, Wireframing, HTML, CSS"
+            ],
+            "Wireframing": [
+                "Created Wireframes using Figma.",
+                "Figma, Wireframing, HTML, CSS"
+            ],
+            "Prototyping": [
+                "Supported Prototyping activities."
+            ],
+            "HTML": [
+                "Figma, Wireframing, HTML, CSS"
+            ],
+            "CSS": [
+                "Figma, Wireframing, HTML, CSS"
+            ]
+        },
+        "education": "Bachelor of Computer Applications\nExample College\n2025",
+        "experience": "Assisted with UI Design and interface design.\nCreated Wireframes using Figma.\nSupported Prototyping activities.\nWorked on mobile interface design.",
+        "projects": "Created a fictional dashboard design.\nDeveloped Responsive Design layouts.",
+        "certifications": "Interface Design Fundamentals",
+        "other": "Fictional junior interface designer.\nFigma, Wireframing, HTML, CSS",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_005.txt",
+        "status": "processed",
+        "skills": [
+            "Adobe XD",
+            "Photoshop",
+            "Illustrator",
+            "Prototyping",
+            "User Research",
+            "Usability Testing",
+            "UI/UX Design"
+        ],
+        "skill_evidence": {
+            "Adobe XD": [
+                "Used Photoshop, Illustrator and Adobe XD.",
+                "Adobe XD, Photoshop, Illustrator, User Research"
+            ],
+            "Photoshop": [
+                "Used Photoshop, Illustrator and Adobe XD.",
+                "Adobe XD, Photoshop, Illustrator, User Research"
+            ],
+            "Illustrator": [
+                "Used Photoshop, Illustrator and Adobe XD.",
+                "Adobe XD, Photoshop, Illustrator, User Research"
+            ],
+            "Prototyping": [
+                "Developed Prototyping deliverables."
+            ],
+            "User Research": [
+                "Conducted User Research and User Interviews.",
+                "Adobe XD, Photoshop, Illustrator, User Research"
+            ],
+            "Usability Testing": [
+                "Performed Usability Testing and accessibility testing."
+            ],
+            "UI/UX Design": [
+                "Worked on UI/UX Design."
+            ]
+        },
+        "education": "Bachelor of Design\nExample University\n2023",
+        "experience": "Conducted User Research and User Interviews.\nPerformed Usability Testing and accessibility testing.\nWorked on UI/UX Design.\nUsed Photoshop, Illustrator and Adobe XD.",
+        "projects": "Created fictional user flows and interaction design.\nDeveloped Prototyping deliverables.",
+        "certifications": "UX Research Training",
+        "other": "Fictional UX researcher and visual designer.\nAdobe XD, Photoshop, Illustrator, User Research",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    },
+    {
+        "filename": "DEMO_UIUX_006.txt",
+        "status": "processed",
+        "skills": [
+            "Figma",
+            "Wireframing",
+            "Prototyping",
+            "User Research",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "skill_evidence": {
+            "Figma": [
+                "Used Figma for interface design.",
+                "Figma, HTML, CSS, JavaScript, Wireframing"
+            ],
+            "Wireframing": [
+                "Created Wireframes and Prototypes.",
+                "Figma, HTML, CSS, JavaScript, Wireframing"
+            ],
+            "Prototyping": [
+                "Created Wireframes and Prototypes."
+            ],
+            "User Research": [
+                "Supported User Research activities."
+            ],
+            "HTML": [
+                "Figma, HTML, CSS, JavaScript, Wireframing"
+            ],
+            "CSS": [
+                "Figma, HTML, CSS, JavaScript, Wireframing"
+            ],
+            "JavaScript": [
+                "Figma, HTML, CSS, JavaScript, Wireframing"
+            ]
+        },
+        "education": "Bachelor of Information Technology\nExample Institute\n2025",
+        "experience": "Worked on Responsive Design and UI Design.\nCreated Wireframes and Prototypes.\nUsed Figma for interface design.\nSupported User Research activities.",
+        "projects": "Designed a fictional responsive web application.\nDeveloped mobile interface design concepts.",
+        "certifications": "Web and Interface Design Training",
+        "other": "Fictional frontend and interface design enthusiast.\nFigma, HTML, CSS, JavaScript, Wireframing",
+        "missing_fields": [],
+        "review_required": false,
+        "review_reason": null,
+        "duplicate_group_id": null,
+        "duplicate_status": "unique",
+        "duplicate_of": null,
+        "duplicate_reason": null,
+        "duplicate_review_required": false
+    }
+]
